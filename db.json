@@ -27,7 +27,7 @@
     {"id":25,"datum":"26.04.2018 13:34","zahlungslaufnummer":"PN-115635-20180814-82","positionen":"74","betrag":"3.243,23 €","art":"Auszahlung","status":"Erledigt"},
     {"id":26,"datum":"26.04.2018 13:34","zahlungslaufnummer":"PN-115635-20180814-82","positionen":"74","betrag":"3.243,23 €","art":"Auszahlung","status":"Erledigt"},
     {"id":27,"datum":"26.04.2018 13:34","zahlungslaufnummer":"PN-115635-20180814-82","positionen":"74","betrag":"3.243,23 €","art":"Auszahlung","status":"Erledigt"},
-    {"id":28,"datum":"26.04.2018 13:34","zahlungslaufnummer":"PN-115635-20180814-82","positionen":"74","betrag":"3.243,23 €","art":"Auszahlung","status":"Erledigt"},
+    {"id":28,"datum":"26.04.2018 13:34","zahlungslaufnummer":"PN-115635-20180814-82","positionen":"74","betrag":"3.243,23 €","art":"Auszahlung","status":"Erledigt"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
