@@ -1,5 +1,8 @@
 {
-  "dataOne": [
+  "draw": 1,
+  "recordsTotal": 28,
+  "recordsFiltered": 28,
+  "data": [
     {"id":1,"datum":"26.04.2018 13:34","zahlungslaufnummer":"PN-115635-20180814-82","positionen":"70","betrag":"3.243,23 €","art":"Auszahlung","status":"Erledigt"},
     {"id":2,"datum":"26.04.2018 13:34","zahlungslaufnummer":"PN-115635-20180814-82","positionen":"71","betrag":"3.243,23 €","art":"Auszahlung","status":"Erledigt"},
     {"id":3,"datum":"26.04.2018 13:34","zahlungslaufnummer":"PN-115635-20180814-82","positionen":"72","betrag":"3.243,23 €","art":"Auszahlung","status":"Erledigt"},
